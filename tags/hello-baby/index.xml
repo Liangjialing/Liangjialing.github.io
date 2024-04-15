@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Baby on My blog</title>
+    <link>https://mayh.github.io/tags/hello-baby/</link>
+    <description>Recent content in Hello Baby on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mayh.github.io/tags/hello-baby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My diary four</title>
+      <link>https://mayh.github.io/english/post/test/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayh.github.io/english/post/test/</guid>
+      
+        <description>Guide to Thumbnails in Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>My diary four</title>
+      <link>https://mayh.github.io/post/test/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayh.github.io/post/test/</guid>
+      
+        <description>Guide to Thumbnails in Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>My diary three</title>
+      <link>https://mayh.github.io/english/post/diary20240413/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayh.github.io/english/post/diary20240413/</guid>
+      
+        <description>Guide to Thumbnails in Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>My diary three</title>
+      <link>https://mayh.github.io/post/diary20240413/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayh.github.io/post/diary20240413/</guid>
+      
+        <description>Guide to Thumbnails in Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>My diary two</title>
+      <link>https://mayh.github.io/english/post/series-part-2/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayh.github.io/english/post/series-part-2/</guid>
+      
+        <description>Guide to Thumbnails in Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>My diary two</title>
+      <link>https://mayh.github.io/post/series-part-2/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayh.github.io/post/series-part-2/</guid>
+      
+        <description>Guide to Thumbnails in Hugo</description>
+      
+    </item>
+    
+  </channel>
+</rss>
