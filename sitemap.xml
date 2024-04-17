@@ -1,127 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://liangjialing.github.io/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/home/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/cv/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/gallery/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/contact/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/ar/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/cv/CV.pdf</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/ar/post/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/ar/about/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/ar/contact/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/post/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/ar/post/arabic_example/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/about/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/post/diary20240413/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/post/test/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/post/series-part-1/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/post/series-part-2/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/ar/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/tags/hello-baby/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/english/post/series-part-1/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/english/post/diary20240413/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/english/post/test/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://liangjialing.github.io/english/post/series-part-2/</loc>
-  <lastmod>2024-04-16T13:36:34+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-
-
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://liangjialing.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://liangjialing.github.io/ar/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
