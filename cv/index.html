@@ -193,7 +193,7 @@
 
     ,
         "url" : "https:\/\/liangjialing.github.io\/cv\/",
-        "wordCount" : "11",
+        "wordCount" : "3",
         "genre" : [ ],
         "keywords" : [ ]
     }
@@ -411,7 +411,7 @@
     
     <div class="post__content">
       <h1></h1>
-      <script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
+      <!-- <script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
 
 <style>
   #embed-pdf-container {
@@ -525,10 +525,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-c7442b1f" href="
 <script type="text/javascript">
     (function(){
     var url = '\/cv\/CV.pdf';
-
-    var hidePaginator = "true" === "true";
-    var hideLoader = "" === "true";
-    var selectedPageNum = parseInt("") || 1;
+      debugger
+    var hidePaginator = 'false' === "true";
+    var hideLoader = '' === "true";
+    var selectedPageNum = parseInt('') || 1;
 
     
     var pdfjsLib = window['pdfjs-dist/build/pdf'];
@@ -605,7 +605,11 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-c7442b1f" href="
     
 
     function showPaginator() {
-      if(hidePaginator) return
+      debugger
+      if(hidePaginator) {
+        paginator.style.display = 'none';
+        return
+      }
       paginator.style.display = 'block';
     }
 
@@ -658,6 +662,22 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-c7442b1f" href="
     });
     })();
 </script>
+ -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CV</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <div id="app">
+      <iframe
+        src="https://drive.google.com/file/d/1zcBfcIlyHPW9wgN_bGhvplmesSpOAdVe/preview"
+        width="100%" height="550">
+      </iframe>
+    </div>
+  </body>
+</html>
 
 </div>
     <div class="post__footer">
